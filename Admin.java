@@ -29,6 +29,10 @@ public class Admin {
     
     private int rid;
     
+    /**
+     * 测试第一次用eclipse使用git
+     * @return
+     */
     
 	public int getRid() {
 		return rid;
