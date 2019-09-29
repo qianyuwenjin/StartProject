@@ -33,6 +33,7 @@ public class Admin {
      * 测试第一次用eclipse使用git
      * @return
      */
+    //熟悉一下第一个项目
     
 	public int getRid() {
 		return rid;
